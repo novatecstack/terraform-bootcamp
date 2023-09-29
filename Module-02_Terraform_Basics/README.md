@@ -18,7 +18,7 @@
       - [Download & Install Visual Studio Code](https://code.visualstudio.com/download)
       - Install extensions: Hashicorp Terraform, Prettier
       
-   3. Install Git
+   3. [Install Git](https://git-scm.com/downloads)
 
 ## 2.3: Understanding Terraform Basics
    - Terraform Providers

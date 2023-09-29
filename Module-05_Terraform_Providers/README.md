@@ -13,11 +13,11 @@
 
   ## 5.2 Provider Block: Examples
    
-     - Example-01: Terraform AWS Provider
+     - Terraform AWS Provider
     
-     - Example-02: Terraform Azure Provider
+     - Terraform Azure Provider
    
-     - Example-03: Terraform GCP Provider 
+     - Terraform GCP Provider 
  
   ## 5.3 Finding perfect Terraform Provider for you requirement on Registry (https://registry.terraform.io/)
      
