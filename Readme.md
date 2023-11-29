@@ -1,4 +1,4 @@
-# [Hashicorp Terraform Bootcamp - K Bindesh](https://novatec.co.in/)
+# [Hashicorp Terraform Bootcamp](https://novatec.co.in/)
 
 This repository has syllabus and learning material for Terraform course.
 During the course you will learn a technology stack that helps you manage cloud infrastructure using Terraform as IaC tool.
@@ -17,6 +17,8 @@ During the course you will learn a technology stack that helps you manage cloud 
  * Other IaC tools in the market
   
  * IaC vs Configuration Management Tools
+
+ * Public Cloud Primer - Azure/AWS/GCP
     
 </details>
 
@@ -91,6 +93,9 @@ During the course you will learn a technology stack that helps you manage cloud 
  ---<br><br>
   
 ## Project Ideas
+   - Deploying 3-Tier Application in Microsoft Azure with multi-environment support.
+   - Deploying LAMP Stack along with required infrastructure in AWS.
+   - Provisioning Kubernetes Cluster with monitoring, storage and security resources
 
 ## Contact
 Website: [Novatec IT Services](https://novatec.co.in/)
