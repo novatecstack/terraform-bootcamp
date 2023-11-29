@@ -55,7 +55,14 @@ During the course you will learn a technology stack that helps you manage cloud 
 </details>
 <details>
  <summary> <b> Module-04: Terraform Settings and Providers :book: </b>  </summary>
-    
+ 
+  *  Terraform Version
+
+  *  Provider Version
+
+  *  State Management - Remote and Local State
+
+  *  <b>Hands-on Labs</b>
 </details>
 <details>
  <summary> <b> Module-05: Terraform Resources ⚙️: </b>  </summary>
@@ -63,6 +70,22 @@ During the course you will learn a technology stack that helps you manage cloud 
 </details>
 <details>
  <summary> <b> Module-06: Terraform Variables 🚥: </b>  </summary>
+    
+</details>
+<details>
+ <summary> <b> Module-07: Terraform Functions 🚥: </b>  </summary>
+    
+</details>
+<details>
+ <summary> <b> Module-08: Terraform Meta-arguments 🚥: </b>  </summary>
+    
+</details>
+<details>
+ <summary> <b> Module-09: Terraform Modules 🚥: </b>  </summary>
+    
+</details>
+<details>
+ <summary> <b> Module-09: Terraform Cloud and CICD Pipeline Integration 🚥: </b>  </summary>
     
 </details>
  ---<br><br>
